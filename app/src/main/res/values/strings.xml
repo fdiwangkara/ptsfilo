@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PTS_Mobile</string>
+
+
+    <string-array name="tanggal_berita">
+        <item>03 Maret 2023</item>
+        <item>10 Maret 2023</item>
+        <item>05 Maret 2023</item>
+        <item>12 Maret 2023</item>
+        <item>09 Maret 2023</item>
+        <item>13 Maret 2023</item>
+        <item>04 Maret 2023</item>
+        <item>02 Maret 2023</item>
+        <item>12 Maret 2023</item>
+        <item>14 Maret 2023</item>
+    </string-array>
+
+    <string-array name="judul_berita">
+        <item>Wakil Menteri Hukum dan Hak Asasi Manusia Dilaporkan ke KPK atas kasus dugaan korupsi.</item>
+        <item>Bola Ganjil: Kartu Merah untuk Kiper Picu Perang di Laga Persahabatan</item>
+        <item>Infografis Wacana Duet Prabowo Subianto dan Ganjar Pranowo di Pilpres 2024</item>
+        <item>Penelitian: Gigi Tak Rapi Bisa Picu Masalah Kesehatan Mental</item>
+        <item>Turis Asing Tak Boleh Sewa Motor karena Kerap Berulah di Bali, Begini Cara Menghadapi Peng...</item>
+        <item>Anak Pedangdut Lilis Karlina Masih SMP Jadi Pengedar Narkoba, Ini Fakta-Faktanya</item>
+        <item>Kenaikan Bunga The Fed Jadi Biang Kerok Silicon Valley Bank Bangkrut</item>
+        <item>Jangan Panik, Lakukan 7 Hal Ini Saat Terjadi Hujan Abu Erupsi Gunung Merapi</item>
+        <item>Silicon Valley Bank Bangkrut Seret Saham First Republic Anjlok 62 Persen</item>
+        <item>Mobil Listrik Mini Cooper EV 2024 Siap Diperkenalkan Tahun Depan, Tenaga dan Jarak</item>
+    </string-array>
+
+    <string-array name="kategori_berita">
+        <item>Politik</item>
+        <item>Olahraga</item>
+        <item>Infografis</item>
+        <item>Kesehatan</item>
+        <item>Tips dan trik</item>
+        <item>Infografis</item>
+        <item>Ekonomi</item>
+        <item>Tips dan trik</item>
+        <item>Ekonomi</item>
+        <item>Otomotif</item>
+    </string-array>
+
+    <integer-array name="gambar_berita">
+        <item>@drawable/img_berita1</item>
+        <item>@drawable/img_berita2</item>
+        <item>@drawable/img_berita3</item>
+        <item>@drawable/img_berita4</item>
+        <item>@drawable/img_berita5</item>
+        <item>@drawable/img_berita6</item>
+        <item>@drawable/img_berita7</item>
+        <item>@drawable/img_berita8</item>
+        <item>@drawable/img_berita9</item>
+        <item>@drawable/img_berita10</item>
+    </integer-array>
+
+    <string-array name="deskripsi_berita">
+        <item>Wakil Menteri Hukum dan Hak Asasi Manusia (Wamenkumham) Edward Omar Sharif Hiariej alias Eddy Hiariej dilaporkan ke KPK atas kasus dugaan korupsi. Laporan dilayangkan oleh Ketua Indonesia Police Watch (IPW) Sugeng Teguh Santoso pada hari ini, Selasa (14/3). "Saya datang hari ini untuk membuat pengaduan ke Dumas terkait dugaan tipikor berpotensi dugaannya bisa saja pemerasan dalam jabatan bisa juga gratifikasi atau yang lain," ujar Sugeng kepada awak media di Gedung Merah Putih KPK, Jakarta, Selasa (14/3). Baca artikel CNN Indonesia "IPW Laporkan Wamenkumham ke KPK Terkait Dugaan Gratifikasi Rp7 Miliar".</item>
+        <item>Uruguay menjamu Ekuador di Estadio Centenario, Montevideo, 4 Januari 1977. Laga sepak bola ini hanya berstatus persahabatan. Namun apa yang terjadi di lapangan jauh dari kata damai. Di sini kedua belah pihak patut menyalahkan wasit Hector Rodriguez.Berasal dari Uruguay, Rodriguez memperlihatkan keberpihakannya terhadap tuan rumah melalui keputusan kontroversial tidak lama selepas jeda. Dengan Uruguay tertinggal gol Angel Liciardi, Rodriguez mengusir kiper Ekuador Carlos Delgado karena dianggap membuang-buang waktu.</item>
+        <item>Dua tokoh yang mempunyai elektabilitas tinggi bertemu. Menteri Pertahanan Prabowo Subianto dan Gubernur Jawa Tengah Ganjar Pranowo tampil bersama saat mendampingi Presiden Joko Widodo atau Jokowi dalam agenda panen raya di Desa Lejer, Kecamatan Ambal, Kabupaten Kebumen, Kamis 9 Maret 2023. Dari rangkaian foto yang dibagikan Sekretariat Presiden, ketiga tokoh itu tampak menghampiri para petani yang siap memanen padi. Di sela-sela panen raya, Presiden Jokowi selfie atau swafoto bersama Prabowo Subianto dan Ganjar Pranowo.</item>
+        <item>Kondisi gigi yang tidak rapi bisa berpengaruh pada kesehatan mental. Penampilan gigi mengambil peranan besar dalam membentuk cara seseorang mempersepsikan diri dan membangun rasa percaya diri. Melansir situs National Alliance of Mental Illness, masalah kepercayaan diri tidak dikategorikan sebagai masalah mental. Namun, kepercayaan diri ada kaitannya dengan masalah tersebut. Minimnya kepercayaan diri menimbulkan risiko gangguan kecemasan hingga depresi.</item>
+        <item>Gubernur Bali I Wayan Koster mengatakan bahwa Bali memiliki sejumlah peraturan yang mengatur tentang warga negara asing melalui peraturan Gubernur Bali mengenai tata kelola pariwisata di provinsi ini, termasuk larangan bagi warga negara asing untuk menggunakan kendaraan bermotor. "Jadi, para wisatawan itu harus bepergian jalan menggunakan mobil-mobil dari travel agent. Tidak diperbolehkan lagi menggunakan kendaraan yang bukan dari travel agent. Pinjam atau sewa itu tidak diperbolehkan lagi," katanya, Minggu (12/3/2023).</item>
+        <item>Pencegahan narkoba memang harus dipahami oleh semua elemen masyarakat. Baik itu anak-anak, remaja hingga dewasa. Apalagi di kelompok usia remaja di mana rentan terpengaruh oleh narkoba. Sudah menjadi rahasia umum, narkoba menjadi ancaman serius masa depan manusia. Tak heran bila banyak sekali sosialisasi anti narkoba yang dikampanyekan oleh sejumlah pihak. Namun masih ada saja remaja yang terjebak oleh buaian obat-obatan terlarang tersebut. Baru-baru ini Satuan Reserse Narkoba Polres Purwakarta menangkap remaja berusia 15 tahun karena diduga terlibat peredaran narkoba.</item>
+        <item>Silicon Valley Bank (SVB) mengalami kebangkrutan di waktu yang tak disangka. Padahal, kecukupan dana yang dihimpun Silicon Valley Bank semasa pandemi tergolong besar. Selepas pandemi, ada tantangan baru bagi Silicon Valley Bank, dengan aktivitas kembali normal, perusahaan teknologi yang jadi konsumen Silicon Valley Bank terpaksa melakukan langkah penghematan.</item>
+        <item>Gunung Merapi yang terletak di perbatasan Jawa Tengah dan Daerah Istimewa Yogyakarta (DIY) mengeluarkan guguran awan panas sejak Sabtu, (11/3/2023). Erupsi Gunung Merapi tersebut berimbas pada awan panas guguran yang meluncur ke arah Kali Bebeng atau Kali Krasak. Di sisi lain, Gubernur Jawa Tengah Ganjar Pranowo juga mengaku sudah menerima laporan mengenai daerah-daerah yang terdampak hujan abu akibat erupsi Merapi. Dia menginstruksikan tim tanggap bencana untuk memantau dampak erupsi Gunung Merapi serta membantu warga di daerah terdampak.</item>
+        <item>Saham First Republic Bank (FRC) turun mencapai rekor 62 persen pada Senin, 13 Maret 2023 menjadi ditutup pada masing-masing USD 31,21. Koreksi saham First Republic Bank ini terjadi meskipun ada langkah-langkah dari regulator AS untuk menopang kepercayaan pada sistem perbankan setelah jatuhnya Silicon Valley Bank. Melansir Yahoo Finance, Selasa (14/3/2023), saham First Republic dan pemberi pinjaman regional lainnya berulang kali dihentikan karena volatilitas selama sesi perdagangan di tengah kekhawatiran penularan bank. Saham Western Alliance (WAL) turun 47 persen, sementara PacWest Bancorp (PACW) dan Zions Bank Corporation (ZION) menutup sesi terendah mereka, masing-masing turun 21 persen dan 25 persen.</item>
+        <item>Pada 2024 dan 2025 mendatang, Mini memiliki beberapa projek besar. Perusahan mobil asal Inggris ini akan menghadirkan deretan mobil terbaru, salah satunya adalah mobil listrik Mini Cooper EV. Dilansir motortrend.com, mobil ini akan segera hadir di periode tersebut. Bukan hanya menyediakan varian full electric, Mini Cooper terbaru juga akan kembali hadir dalam varian mesin konvensional.</item>
+    </string-array>
+</resources>
