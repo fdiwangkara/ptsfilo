@@ -6,8 +6,11 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.res.TypedArray;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 
 import java.util.ArrayList;
+import java.util.Locale;
 
 public class NewsActivity extends AppCompatActivity {
 
@@ -24,6 +27,14 @@ public class NewsActivity extends AppCompatActivity {
 
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setAdapter(adapter);
+
+
+
+
+
+
+
+
 
     }
 
@@ -52,4 +63,11 @@ public class NewsActivity extends AppCompatActivity {
         return heroes;
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+
+        getMenuInflater().inflate(R.menu.search, menu);
+        MenuItem menuItem = menu.findItem(R.id.search);
+        return super.onCreateOptionsMenu(menu);
+    }
 }

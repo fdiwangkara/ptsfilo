@@ -8,22 +8,29 @@
     >
 
 
-    <ImageView
 
-        android:id="@+id/hero_image"
-        android:layout_width="150dp"
-        android:layout_height="100dp"
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="38dp"
+            android:id="@+id/hero_image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginTop="30dp"
-        android:scaleType="centerCrop"
-        android:src="@drawable/ic_launcher_background"
-        android:background="@drawable/radius"
-        android:foreground="@drawable/radius"
-        />
+        >
+
+        <ImageView
+            android:id="@+id/hero_image"
+            android:scaleType="centerCrop"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_launcher_background"/>
+    </androidx.cardview.widget.CardView>
 
 
     <TextView
+
+        android:textColor="#FFFF"
         android:id="@+id/berita_judul"
         android:layout_width="220dp"
         android:layout_height="wrap_content"
@@ -32,10 +39,12 @@
 
         android:text="TextView"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/hero_image"
+        app:layout_constraintStart_toEndOf="@+id/hero_image1"
         app:layout_constraintTop_toBottomOf="@id/berita_category" />
 
     <TextView
+
+        android:textColor="#D51010"
         android:id="@+id/berita_category"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -43,10 +52,12 @@
         android:layout_marginTop="30dp"
         android:text="TextView"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/hero_image"
+        app:layout_constraintStart_toEndOf="@+id/hero_image1"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+
+        android:textColor="#D51010"
         android:id="@+id/berita_date"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -54,7 +65,7 @@
         android:layout_marginTop="10dp"
         android:text="TextView"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/hero_image"
+        app:layout_constraintStart_toEndOf="@+id/hero_image1"
         app:layout_constraintTop_toBottomOf="@+id/berita_judul" />
 
 

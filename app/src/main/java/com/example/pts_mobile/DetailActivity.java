@@ -27,6 +27,9 @@ public class DetailActivity extends AppCompatActivity {
        String desck = getIntent().getStringExtra(EXTRA_DESC);
        Integer gambar = getIntent().getIntExtra(EXTRA_GAMBAR, 0);
 
+
+
+
         judul.setText(sub);
         desc.setText(desck);
         image.setImageResource(gambar);
